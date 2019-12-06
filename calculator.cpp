@@ -17,7 +17,7 @@ int main()
                 int a,b;
                 cout<<"enter two numbers: ";
                 cin>>a>>b;
-                cout<<"Addition of "<<a<<" and "<<b<<" is --> "<<a+b;
+                cout<<"Addition of "<<a<<" and "<<b<<" is --> "<<a+b<<endl;
                 break;
             }
             case 2:
@@ -25,7 +25,7 @@ int main()
                 int a,b;
                 cout<<"enter two numbers: ";
                 cin>>a>>b;
-                cout<<"Subtraction of "<<a<<" and "<<b<<" is --> "<<a-b;
+                cout<<"Subtraction of "<<a<<" and "<<b<<" is --> "<<a-b<<endl;
                 break;
             }
             case 3:
@@ -33,7 +33,7 @@ int main()
                 int a,b;
                 cout<<"enter two numbers: ";
                 cin>>a>>b;
-                cout<<"Multiplication of "<<a<<" and "<<b<<" is --> "<<a*b;
+                cout<<"Multiplication of "<<a<<" and "<<b<<" is --> "<<a*b<<endl;
                 break;
             }
             case 4:
@@ -41,7 +41,7 @@ int main()
                 int a,b;
                 cout<<"enter two numbers: ";
                 cin>>a>>b;
-                cout<<"Division of "<<a<<" and "<<b<<" is --> "<<a/b;
+                cout<<"Division of "<<a<<" and "<<b<<" is --> "<<a/b<<endl;
                 break;
             }
             case 5:
